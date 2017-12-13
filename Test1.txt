@@ -1,2 +1,3 @@
 1.0
 1.1 - branch2
+1.2 - branch2 from set 2

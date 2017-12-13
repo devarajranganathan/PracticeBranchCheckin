@@ -1,1 +1,2 @@
 1.0
+1.1 -> branch1 from Set2 after checking out remote branch1
